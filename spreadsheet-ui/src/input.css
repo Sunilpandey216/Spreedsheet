@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.btn {
+  @apply px-3 py-1 border rounded hover:bg-gray-100;
+}

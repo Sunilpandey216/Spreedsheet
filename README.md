@@ -7,9 +7,8 @@ A pixel-perfect, spreadsheet-style UI built using **React**, **TypeScript**, **T
 
 ##  Live Demo
 
-👉 [View Deployed App](https://your-vercel-or-netlify-url.com)
-
----
+[[👉 [View Deployed App](https://your-vercel-or-netlify-url.com)
+https://spreedsheet-kappa.vercel.app/
 
 ## 🧠 Assignment Goal
 
@@ -19,6 +18,7 @@ Figma Design:
 🔗 [View on Figma](https://www.figma.com/design/3nywpu5sz45RrCmwe68QZP/Intern-Design-Assigment?node-id=2-2535&t=DJGGMt8I4fiZjoIB-1)
 
 ---
+
 
 ##  Tech Stack
 
